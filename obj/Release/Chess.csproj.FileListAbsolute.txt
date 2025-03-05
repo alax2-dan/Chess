@@ -1,0 +1,11 @@
+C:\Users\dchan\visual studio\Chess\bin\Release\Chess.exe.config
+C:\Users\dchan\visual studio\Chess\bin\Release\Chess.exe
+C:\Users\dchan\visual studio\Chess\bin\Release\Chess.pdb
+C:\Users\dchan\visual studio\Chess\obj\Release\Chess.csproj.AssemblyReference.cache
+C:\Users\dchan\visual studio\Chess\obj\Release\Chess.Form1.resources
+C:\Users\dchan\visual studio\Chess\obj\Release\Chess.gameForm.resources
+C:\Users\dchan\visual studio\Chess\obj\Release\Chess.Properties.Resources.resources
+C:\Users\dchan\visual studio\Chess\obj\Release\Chess.csproj.GenerateResource.cache
+C:\Users\dchan\visual studio\Chess\obj\Release\Chess.csproj.CoreCompileInputs.cache
+C:\Users\dchan\visual studio\Chess\obj\Release\Chess.exe
+C:\Users\dchan\visual studio\Chess\obj\Release\Chess.pdb

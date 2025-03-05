@@ -1,0 +1,34 @@
+N:\Chess\bin\Debug\Chess.exe.config
+N:\Chess\bin\Debug\Chess.exe
+N:\Chess\bin\Debug\Chess.pdb
+N:\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+N:\Chess\obj\Debug\Chess.csproj.SuggestedBindingRedirects.cache
+N:\Chess\obj\Debug\Chess.Form1.resources
+N:\Chess\obj\Debug\Chess.gameForm.resources
+N:\Chess\obj\Debug\Chess.Properties.Resources.resources
+N:\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+N:\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+N:\Chess\obj\Debug\Chess.exe
+N:\Chess\obj\Debug\Chess.pdb
+C:\Users\dchan\visual studio\Chess copy\bin\Debug\Chess.exe.config
+C:\Users\dchan\visual studio\Chess copy\bin\Debug\Chess.exe
+C:\Users\dchan\visual studio\Chess copy\bin\Debug\Chess.pdb
+C:\Users\dchan\visual studio\Chess copy\obj\Debug\Chess.csproj.AssemblyReference.cache
+C:\Users\dchan\visual studio\Chess copy\obj\Debug\Chess.Form1.resources
+C:\Users\dchan\visual studio\Chess copy\obj\Debug\Chess.gameForm.resources
+C:\Users\dchan\visual studio\Chess copy\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\dchan\visual studio\Chess copy\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\dchan\visual studio\Chess copy\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\dchan\visual studio\Chess copy\obj\Debug\Chess.exe
+C:\Users\dchan\visual studio\Chess copy\obj\Debug\Chess.pdb
+C:\Users\dchan\visual studio\Chess\bin\Debug\Chess.exe.config
+C:\Users\dchan\visual studio\Chess\bin\Debug\Chess.exe
+C:\Users\dchan\visual studio\Chess\bin\Debug\Chess.pdb
+C:\Users\dchan\visual studio\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+C:\Users\dchan\visual studio\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\dchan\visual studio\Chess\obj\Debug\Chess.gameForm.resources
+C:\Users\dchan\visual studio\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\dchan\visual studio\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\dchan\visual studio\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\dchan\visual studio\Chess\obj\Debug\Chess.exe
+C:\Users\dchan\visual studio\Chess\obj\Debug\Chess.pdb
